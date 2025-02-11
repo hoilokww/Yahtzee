@@ -1,0 +1,123 @@
+Rules
+
+The Objective of Yahtzee is to achieve the highest possible total score. 
+
+The game consists of 13 rounds. In each round, you roll the dice and then score the roll in one of 13 categories. You must score once in each category.
+The score is determined by a different rule for each category.
+
+The game ends once all 13 categories have been scored.
+
+Game Start
+
+To start with, roll all the dice. After rolling you can either score the current roll, or re-roll any or all of the dice.
+
+You may only roll the dice a total of 3 times - the initial roll and two rerolls. After rolling 3 times you must choose a category to score.
+
+Scoring
+
+Once you have the dice face combination you want to score, you score the roll in one of the 13 categories.
+You do this by clicking on one of the radio buttons in either the Upper Scores or Lower Scores box. Once a category has been scored, it is closed out for the rest of the game
+You cannot change a category's score once it's been set.
+Each category defines its own scoring rules, as described below.
+
+Upper Scores
+
+In the upper scores, you total only the specified die face. So if you roll:
+
+    1,3,3,3,5 and score in the Threes category, your total for the category would be 9.
+
+    1,3,3,3,5 and score in the Fives category, your score would be 5.
+
+    1,3,3,3,5 and score in the Fours category, your score would be 0.
+
+If you roll:
+
+    2,4,4,5,5 and score in the Fours category, your total for the category would be 8.
+
+    2,4,4,5,5 and score in the Fives category, your score would be 10.
+
+    2,4,4,5,5 and score in the Sixes category, your score would be 0.
+
+Upper Bonus
+
+If the total of Upper Scores is 63 or more, add a bonus of 35 points.
+
+Lower Scores
+
+In the lower scores, you score either a set amount, or zero if you don't satisfy the category requirements.
+
+3 of Kind
+
+Score the total of all the dice. So if you roll:
+
+    3,3,3,4,5 you would score 18 in the 3 of Kind category.
+
+    3,3,4,5,6 you would score 0 in the 3 of Kind category.
+
+4 of Kind
+
+Score the total of all the dice. So if you roll:
+
+    3,3,3,3,5 you would score 17 in the 4 of Kind category.
+
+    3,3,3,5,6 you would score 0 in the 4 of Kind category.
+
+Full House
+
+Score 25 points for a full house. A full house is where you have 3 of a kind and 2 of a kind. So if you roll:
+
+    3,3,3,5,5 you would score 25 in the Full House category.
+
+    2,2,5,5,5 you would score 0 in the Full House category.
+
+Small Straight
+
+Score 30 points for a small straight. A small straight is a sequence of four consecutive dice, such as:
+
+    1,2,3,4,6
+
+    2,3,4,5,3
+
+    5,4,3,2,1
+
+Large Straight
+
+Score 40 points for a large straight. A large straight is a sequence of five consecutive dice, such as:
+
+    1,2,3,4,5
+
+    2,3,4,5,6
+
+    6,5,4,3,2
+
+Yahtzee
+
+Score 50 points for a yahtzee. You must have five of a kind in order to score in the yahtzee category;
+But you may optionally score in another category first if it is more advantageous.
+
+Chance
+
+You can roll anything and be able to put it in the Chance category. Score the total of all the dice. So if you roll:
+
+    1,1,3,3,6 you would score 14 in the Chance category.
+
+    4,5,5,6,6 you would score 26 in the Chance category.
+
+    1,1,1,1,3 you would score 7 in the Chance category.
+
+    5,6,6,6,6 you would score 29 in the Chance category.
+
+Yahtzee Bonus
+
+If you roll a second Yahtzee in a game, and you scored your first yahtzee in the Yahtzee box, you would score a further bonus 100 points in the yahtzee box.
+You must also put this roll into another category, as follows;
+
+    If the corresponding Upper section category is not filled then you must score there.
+
+    If the corresponding Upper section category is filled you may then score in any other unused category.
+
+    If the corresponding Upper section category is filled and all the other categories are filled you must score a zero in an unused Upper section category.
+
+    Note that if you score a second yahtzee in a game and you have already scored a zero in the Yahtzee box, you do not receive a Yahtzee bonus.
+
+
