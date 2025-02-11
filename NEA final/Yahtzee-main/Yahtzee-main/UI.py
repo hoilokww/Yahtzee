@@ -370,7 +370,7 @@ class GUI:
                             pad=(0, 10 if is_main else 5))
             return button
 
-        # Main menu layout with improved styling and animations
+        # Main menu layout
         layout = [
             [psg.Column(dice1, background_color=BACKGROUND_COLOR, element_justification='left', key='dice_col1'), 
              psg.Column([[psg.Column([title_elements], background_color=BACKGROUND_COLOR, element_justification='center')],
@@ -747,7 +747,7 @@ class GUI:
         TEXT_COLOR = theme['text']
         ACCENT_COLOR = theme['accent']
 
-        # Player selection layout with improved aesthetics
+        # Player selection layout
         layout = [
             [psg.VPush()],
             [psg.Text("✨ New Game Setup", 
@@ -865,7 +865,7 @@ class GUI:
 
         self.game = Game()
         
-        # Get player names with improved aesthetics
+        # Get player names
         name_layout = [
             [psg.VPush()],
             [psg.Text("Enter Player Names", 
@@ -1518,7 +1518,7 @@ class GUI:
                 pad=(20, 20)
             )
 
-            # Create layout with improved styling
+            # Create layout
             layout = [
                 [psg.Text(f"Round {self.game.roundnum}", 
                          font=("Comic Sans MS", 24, 'bold'),
